@@ -1,3 +1,12 @@
+#   Codigo que implementa un esquema numerico 
+#   para determinar la precision de una maquina
+# 
+#           Autor:
+#   Dr. Ivan de Jesus May-Cen
+#   imaycen@hotmail.com
+#   Version 1.0 : 29/01/2025
+#
+
 # Explicación Detallada del Código
 
 
